@@ -1,0 +1,3 @@
+[submodule "pack/wizhi/start/nvim-lspconfig"]
+	path = pack/wizhi/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
