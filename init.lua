@@ -1,3 +1,4 @@
+vim.o.guifont = "FiraCode Nerd Font:h10"
 vim.wo.relativenumber = true
 
 vim.api.nvim_create_autocmd("BufWritePre", {
