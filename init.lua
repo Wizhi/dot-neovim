@@ -1,5 +1,11 @@
 vim.o.guifont = "FiraCode Nerd Font:h10"
+vim.o.termguicolors = true
 vim.wo.relativenumber = true
+
+require("gitsigns").setup()
+require("feline").setup {
+	preset = "noicon"
+}
 
 vim.api.nvim_create_autocmd("BufWritePre", {
 	callback = function()

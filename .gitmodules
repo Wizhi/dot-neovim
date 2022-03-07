@@ -4,3 +4,12 @@
 [submodule "pack/wizhi/start/fugitive"]
 	path = pack/wizhi/start/fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/wizhi/start/feline.nvim"]
+	path = pack/wizhi/start/feline.nvim
+	url = https://github.com/feline-nvim/feline.nvim.git
+[submodule "pack/wizhi/start/gitsigns.nvim"]
+	path = pack/wizhi/start/gitsigns.nvim
+	url = https://github.com/lewis6991/gitsigns.nvim.git
+[submodule "pack/wizhi/start/plenary.nvim"]
+	path = pack/wizhi/start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
